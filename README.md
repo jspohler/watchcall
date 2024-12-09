@@ -1,6 +1,6 @@
-# Flask + React Template
+# WatchCall
 
-This is a template project with a Flask backend and React frontend.
+This is a project to showcase my ability to use React and Flask, you can create lists of movies you want to watch and select the streaming services you have subscriped to, once a day the software will check if some of your movies are available on one of your streaming services and you will be notified if so. The idea came to me after i have seen a lot of movies being available on my streaming services that i wanted to watch since a long time but i lost track of all of them. This way i will always know when my movies will be available and where. 
 
 ## Project Structure
 - `backend/`: Flask backend
@@ -46,7 +46,4 @@ This is a template project with a Flask backend and React frontend.
    ```bash
    npm start
    ```
-   The application will open in your browser at http://localhost:3000
-
-## API Endpoints
-- GET `/api/test`: Test endpoint that returns a welcome message 
+   The application will open in your browser at http://localhost:3003
